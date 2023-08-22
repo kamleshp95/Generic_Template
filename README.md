@@ -8,7 +8,7 @@
 
 - `conda activate env/`
 
-  - to git bash:
+- to git bash:
 
 `source activate env/`
 
